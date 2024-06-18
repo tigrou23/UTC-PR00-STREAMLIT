@@ -14,7 +14,7 @@ Le but de ce projet est de créer un site pour visualiser des informations conce
 Voici des captures d'écran du site :
 
 <img width="1015" alt="Capture d’écran 2024-06-18 à 14 06 53" src="https://github.com/tigrou23/UTC-PR00-STREAMLIT/assets/54220880/41498687-687b-4d3a-b597-5b336962b3a2">
-<img width="1015" alt="Capture d’écran 2024-06-18 à 14 06 53" src="https://github.com/tigrou23/UTC-PR00-STREAMLIT/assets/54220880/8bf428d1-45d1-4588-8632-a1d4d7cf03c7">
+<img width="898" alt="Capture d’écran 2024-06-18 à 14 07 13" src="https://github.com/tigrou23/UTC-PR00-STREAMLIT/assets/54220880/8a102b57-4815-4d77-9c2f-f5ba45508544">
 
 ### 2. Technologies utilisées
 
